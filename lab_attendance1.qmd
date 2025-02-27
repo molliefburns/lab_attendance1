@@ -7,4 +7,4 @@ editor: visual
 
 ## Add, Commit, Push
 
-
+![Maroon Bells (Aspen, CO)](img/maroon_bells.png){fig-align="center"}
